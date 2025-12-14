@@ -32,7 +32,7 @@ IdentitySuiteMigration/
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/spin973/IdentitySuite.MigrationTool.git
-cd <repo>
+cd IdentitySuite.MigrationTool
 ```
 
 ### 2. Restore dependencies
